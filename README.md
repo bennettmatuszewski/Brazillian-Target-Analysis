@@ -7,4 +7,4 @@ View Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiMDFlZTFiNjYtNjJlYS00NWRk
 
 Source data: https://www.kaggle.com/datasets/devarajv88/target-dataset
 
-![AnalysisDashboard](https://github.com/user-attachments/assets/eb7bd7f7-b9de-4988-81b9-5361e837ad8f)
+![AnalysisDashboard](https://github.com/user-attachments/assets/b0e723a0-9df5-45a2-be00-945d260ec84e)
