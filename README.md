@@ -1,6 +1,8 @@
 # Brazillian-Target-Analysis
 An analysis of over 100,000 Target orders placed between 2016 and 2018 in Brazil.
 
+Tools used: Supabase, SQL, Power BI, Excel
+
 View Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDFlZTFiNjYtNjJlYS00NWRkLTk3NWEtYjk2MmQyZTUzMTk4IiwidCI6ImI5M2NiYzNlLTY2MWQtNDA1OC04NjkzLWE4OTdiOTI0YjhkNyIsImMiOjF9
 
 Source data: https://www.kaggle.com/datasets/devarajv88/target-dataset
